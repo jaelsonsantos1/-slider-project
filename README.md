@@ -1,2 +1,2 @@
-# -slider-project
+# slider-project
 Projeto de slider automatico
