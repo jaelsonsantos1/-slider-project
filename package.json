@@ -1,5 +1,12 @@
 {
+  "name": "tv-package",
+  "version": "1.0.0", 
+  "description": "Pacote de dependências",
+  "main": "server/server.js",
   "dependencies": {
     "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node server/server.js"
   }
 }
